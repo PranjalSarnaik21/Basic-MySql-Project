@@ -1,6 +1,6 @@
-Title: Second Hand Car Price Prediction Project
+# Title: Second Hand Car Price Prediction Project
 
-Description:
+* ## Description:
 This project aims to predict the prices of second-hand cars using SQL.
 The dataset includes attributes such as model, year,selling price, mileage, and condition of the cars.
 The project is implemented in MY SQL 
