@@ -8,6 +8,7 @@ This project aims to predict the prices of second-hand cars using SQL. The data 
 - **WHERE Clause**: Use the WHERE clause to filter the data based on specific conditions.
 - **GROUP BY Year**: Group the data by the year of manufacture to analyze trends over time.
 - **HAVING Clause**: Further refine the analysis by filtering groups based on aggregate conditions.
+- 
 
 
 
